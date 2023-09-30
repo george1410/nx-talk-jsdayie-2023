@@ -6,7 +6,7 @@ export interface MyComponentProps {}
 export function MyComponent(props: MyComponentProps) {
   return (
     <div className={styles['container']}>
-      <h1>Welcome to MyComponent!</h1>
+      <h1>Welcome to MyComponent! JSDayIE</h1>
     </div>
   );
 }
